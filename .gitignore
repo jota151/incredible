@@ -27,3 +27,5 @@ client/built/
 .vscode/tasks.json
 *~
 .direnv
+package-lock.json
+package-lock.json
